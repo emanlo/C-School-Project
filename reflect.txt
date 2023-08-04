@@ -1,0 +1,25 @@
+///////////////////////////////////////////////////
+/*
+- Student Name  : Chi Fai Lo
+- Student No    : 164450215
+- Email ID      : clo36@myseneca.ca
+- Date Finish   : 31-Mar-2023
+*/
+
+// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+///////////////////////////////////////////////////
+
+I have to design a set of workstations for this project containing a particular assortment of stock items. 
+The line manager fills customer orders at each station as they are asked while moving them along the line. 
+Each station processes a queue of orders by loading the following order in the queue 
+if that order demands the station's item and that item is in stock. Each customer order consists of a list of items that need to be filled. 
+
+I need a strong understanding of C++ object-oriented concepts like inheritance, polymorphism, and encapsulation to finish this job. 
+Managing supplies and orders between the locations are also crucial. 
+By developing a solid data structure to store the orders, keep track of the products in stock at each station, 
+deal with incomplete orders, and show a list of completed and incomplete orders once the line manager has processed all of the orders.
+
+
+Finally, this project is broken down into three milestones to ensure that each one is completed before moving on to the next and 
+that each milestone is thoroughly tested to find and fix any problems that may emerge.
